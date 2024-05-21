@@ -11,8 +11,8 @@ This project demonstrates a comprehensive end-to-end DevOps pipeline, leveraging
 ### Infrastructure Provisioning
 
 - **Terraform**: Used to provision the core infrastructure, including :
-1- Jenkins master, build node, and Ansible servers. 
-2- EKS cluster associated with the necessary roles and policies, ensuring a scalable and maintainable environment.
+- 1- Jenkins master, build node, and Ansible servers. 
+- 2- EKS cluster associated with the necessary roles and policies, ensuring a scalable and maintainable environment.
 - **AWS**: Cloud platform for infrastructure deployment.
 
 ### Configuration Management
